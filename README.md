@@ -10,4 +10,5 @@
 [ansible-playbooks-zabbix3.0-centos6](https://github.com/mcsrainbow/ansible-playbooks-zabbix3.0-centos6) | <br />
 [shell-scripts](https://github.com/mcsrainbow/shell-scripts) | [python-demos](https://github.com/mcsrainbow/python-demos) | [perl-demos](https://github.com/mcsrainbow/perl-demos)<br />
 [pelican](https://github.com/mcsrainbow/pelican) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo)<br />
-[terraform-aws-emr-solution](https://github.com/mcsrainbow/terraform-aws-emr-solution) | 
+[terraform-aws-emr-solution](https://github.com/mcsrainbow/terraform-aws-emr-solution) | <br />
+[docker-apps](https://github.com/mcsrainbow/docker-apps) |
