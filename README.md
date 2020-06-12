@@ -6,8 +6,7 @@
 
 [vimrc](https://github.com/mcsrainbow/vimrc)<br />
 [python-projects-ddep](https://github.com/mcsrainbow/python-projects-ddep) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo)<br />
-[chef-cookbooks-hadoop](https://github.com/mcsrainbow/chef-cookbooks-hadoop)<br />
-[puppet-modules-hadoop](https://github.com/mcsrainbow/puppet-modules-hadoop)<br />
+[chef-cookbooks-hadoop](https://github.com/mcsrainbow/chef-cookbooks-hadoop) | [puppet-modules-hadoop](https://github.com/mcsrainbow/puppet-modules-hadoop)<br />
 [salt-states-moosefs](https://github.com/mcsrainbow/salt-states-moosefs) | [salt-states-hadoop](https://github.com/mcsrainbow/salt-states-hadoop)<br />
 [ansible-playbooks-moosefs](https://github.com/mcsrainbow/ansible-playbooks-moosefs) | [ansible-playbooks-cdh5](https://github.com/mcsrainbow/ansible-playbooks-cdh5) | [ansible-playbooks-bind9](https://github.com/mcsrainbow/ansible-playbooks-bind9) | [ansible-playbooks-zabbix3.0-centos6](https://github.com/mcsrainbow/ansible-playbooks-zabbix3.0-centos6)<br />
 [shell-scripts](https://github.com/mcsrainbow/shell-scripts) | [python-demos](https://github.com/mcsrainbow/python-demos) | [perl-demos](https://github.com/mcsrainbow/perl-demos)<br />
