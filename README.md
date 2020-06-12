@@ -1,8 +1,8 @@
-## HeyDevOps
+## heydevops
 
-[HeyLinux.com](http://heylinux.com) + [DevOps](http://zh.wikipedia.org/zh-cn/DevOps) = [HeyDevOps](https://github.com/mcsrainbow/heydevops)
+[heylinux.com](http://heylinux.com) + [devops](http://zh.wikipedia.org/zh-cn/DevOps) = [heydevops](https://github.com/mcsrainbow/heydevops)
 
-### Index of my Repositories:
+### index of my repositories:
 
 [notes](https://github.com/mcsrainbow/notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [pelican](https://github.com/mcsrainbow/pelican)<br />
 [python-projects-ddep](https://github.com/mcsrainbow/python-projects-ddep) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo)<br />
