@@ -2,7 +2,7 @@
 
 [heylinux.com](http://heylinux.com) + [devops](http://zh.wikipedia.org/zh-cn/DevOps) = [heydevops](https://github.com/mcsrainbow/heydevops)
 
-### Index of my valuable repositories
+### Index of my repositories
 
 [notes](https://github.com/mcsrainbow/notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [pelican](https://github.com/mcsrainbow/pelican)<br />
 [python-project-ddep](https://github.com/mcsrainbow/python-project-ddep) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo)<br />
