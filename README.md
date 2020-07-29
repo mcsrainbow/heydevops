@@ -4,7 +4,7 @@
 
 ### Index of my repositories
 
-[notes](https://github.com/mcsrainbow/notes) | [devops-notes](https://github.com/mcsrainbow/devops-notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [pelican](https://github.com/mcsrainbow/pelican)<br />
+[notes](https://github.com/mcsrainbow/notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [devops-notes](https://github.com/mcsrainbow/devops-notes) | [pelican](https://github.com/mcsrainbow/pelican)<br />
 [python-project-ddep](https://github.com/mcsrainbow/python-project-ddep) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo)<br />
 [chef-cookbooks-hadoop](https://github.com/mcsrainbow/chef-cookbooks-hadoop) | [puppet-modules-hadoop](https://github.com/mcsrainbow/puppet-modules-hadoop)<br />
 [salt-states-moosefs](https://github.com/mcsrainbow/salt-states-moosefs) | [salt-states-hadoop](https://github.com/mcsrainbow/salt-states-hadoop)<br />
