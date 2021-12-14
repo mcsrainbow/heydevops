@@ -1,6 +1,6 @@
 ### heydevops
 
-[heylinux.com](http://heylinux.com) + [devops](http://zh.wikipedia.org/zh-cn/DevOps) = [heydevops](https://github.com/mcsrainbow/heydevops)
+[blog.heylinux.com](http://blog.heylinux.com) + [devops](http://zh.wikipedia.org/zh-cn/DevOps) = [heydevops](https://github.com/mcsrainbow/heydevops)
 
 ### Index of my repositories
 
