@@ -6,7 +6,7 @@
 
 Featured: [notes](https://github.com/mcsrainbow/notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io)
 
-Scripts: [shell-scripts](https://github.com/mcsrainbow/shell-scripts) | [python-demos](https://github.com/mcsrainbow/python-demos) | [perl-demos](https://github.com/mcsrainbow/perl-demos)
+Scripts: [shell-scripts](https://github.com/mcsrainbow/shell-scripts) | [python-scripts](https://github.com/mcsrainbow/python-scripts) | [perl-scripts](https://github.com/mcsrainbow/perl-scripts)
 
 Python: [python-project-ddep](https://github.com/mcsrainbow/python-project-ddep) | [devopsdemo](https://github.com/mcsrainbow/devopsdemo) | [captchas-opencv-rek](https://github.com/mcsrainbow/captchas-opencv-rek)
 
