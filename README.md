@@ -4,7 +4,7 @@
 
 ## Index of my repositories
 
-Featured: [notes](https://github.com/mcsrainbow/notes) | [vimrc](https://github.com/mcsrainbow/vimrc) | [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io)
+Featured: [vimrc](https://github.com/mcsrainbow/vimrc) | [notes](https://github.com/mcsrainbow/notes) | [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io)
 
 Scripts: [shell-scripts](https://github.com/mcsrainbow/shell-scripts) | [python-scripts](https://github.com/mcsrainbow/python-scripts) | [perl-scripts](https://github.com/mcsrainbow/perl-scripts)
 
