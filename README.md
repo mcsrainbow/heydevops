@@ -4,7 +4,7 @@
 
 ## Index of my repositories
 
-Featured [vimrc](https://github.com/mcsrainbow/vimrc) [notes](https://github.com/mcsrainbow/notes) [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io) [macos-cfgs](https://github.com/mcsrainbow/macos-cfgs) [alibaba-cloud-icons](https://github.com/mcsrainbow/alibaba-cloud-icons)  
+Featured [vimrc](https://github.com/mcsrainbow/vimrc) [notes](https://github.com/mcsrainbow/notes) [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io) [alibaba-cloud-icons](https://github.com/mcsrainbow/alibaba-cloud-icons) [macos-cfgs](https://github.com/mcsrainbow/macos-cfgs)  
 Scripts [shell-scripts](https://github.com/mcsrainbow/shell-scripts) [python-scripts](https://github.com/mcsrainbow/python-scripts) [perl-scripts](https://github.com/mcsrainbow/perl-scripts)  
 Python [python-project-ddep](https://github.com/mcsrainbow/python-project-ddep) [devopsdemo](https://github.com/mcsrainbow/devopsdemo) [captchas-opencv-rek](https://github.com/mcsrainbow/captchas-opencv-rek)  
 Puppet [puppet-modules-hadoop](https://github.com/mcsrainbow/puppet-modules-hadoop)  
