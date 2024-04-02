@@ -1,8 +1,4 @@
-# heydevops
-
-[blog.heylinux.com](https://blog.heylinux.com) + [devops](https://zh.wikipedia.org/zh-cn/DevOps) = [heydevops](https://github.com/mcsrainbow/heydevops)
-
-## Index of my public source repositories
+# Index of my public source repositories
 
 Featured: [vimrc](https://github.com/mcsrainbow/vimrc) [notes](https://github.com/mcsrainbow/notes) [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io) [alibaba-cloud-icons](https://github.com/mcsrainbow/alibaba-cloud-icons) [macos-cfgs](https://github.com/mcsrainbow/macos-cfgs)  
 Scripts: [shell-scripts](https://github.com/mcsrainbow/shell-scripts) [python-scripts](https://github.com/mcsrainbow/python-scripts) [perl-scripts](https://github.com/mcsrainbow/perl-scripts)  
