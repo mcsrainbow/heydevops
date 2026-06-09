@@ -1,4 +1,4 @@
-# Index of my public source repositories
+# Index of public source repositories
 
 Configurations: [vimrc](https://github.com/mcsrainbow/vimrc) [hugo](https://github.com/mcsrainbow/mcsrainbow.github.io) [macos-cfgs](https://github.com/mcsrainbow/macos-cfgs)  
 Pages: [notes](https://github.com/mcsrainbow/notes) [alibaba-cloud-icons](https://github.com/mcsrainbow/alibaba-cloud-icons)  
